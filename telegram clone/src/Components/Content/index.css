@@ -1,0 +1,19 @@
+.content .content-header{
+    height: 90px;
+    background-color: darkslategrey;
+    color: white;
+}
+.message{
+    height:50px;
+    background-color: lightgray;
+    font-size: 25px;
+    margin: 10px;
+    border-radius: 40px;
+}
+.message span{
+    font-size: 14px;
+    float: right;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
